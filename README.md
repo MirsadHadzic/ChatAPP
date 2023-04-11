@@ -1,3 +1,4 @@
+
 # ChatApp
 Making a ChatAPP as a project for Software Engineering. 
 
@@ -38,3 +39,4 @@ naming, documentation, and more. The guide can be found on the official Dart web
 
 For Flutter, the coding standard is based on the Dart Style Guide, and Flutter-specific conventions and 
 guidelines are documented in the Flutter Style Guide, which can also be found on the official Flutter website.
+>>>>>>> 65a0560a8c81d74d639fb5457e2c0b431a12dbfa
