@@ -1,4 +1,6 @@
-import 'package:evolt_test/main.dart';
+// we have arranged these tests somehow different, each of them now has their own .dart file
+
+/*import 'package:evolt_test/main.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:evolt_test/presentation/register_user.dart';
@@ -30,4 +32,4 @@ void main() {
       expect(connectTextFinder, findsOneWidget);
     });
   });
-}
+}*/
